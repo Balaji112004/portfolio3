@@ -998,7 +998,7 @@ body{
         gap: 10px;
     }
     #skill{
-        height: 110vh;
+        height: 68vh;
     }
     #rangee,#range-85,#range-80{
         width: 310px;
@@ -1047,7 +1047,7 @@ body{
     } */
 
     #about {
-        height: 110vh;
+        height: 105vh;
         padding: 20px;
         
     }
@@ -1088,7 +1088,7 @@ body{
     }
    
     #certifications{
-        height: 150vh;
+        height: 110vh;
     }
     #edu .head {
         font-size: 35px;
@@ -1107,6 +1107,7 @@ body{
         width: 100%;
     }
      #skill h1{
+         padding-top:0px;
         font-size: 35px;
      }
      #certifications>h1{
@@ -1318,6 +1319,7 @@ body{
         animation: none;
     }
 }
+
 
 
 
